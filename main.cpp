@@ -1,4 +1,5 @@
 //Luis Yoon (260773791)
+//ji.woong.yoon@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
